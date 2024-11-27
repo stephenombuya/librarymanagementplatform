@@ -13,7 +13,7 @@ This is a simple console-based Library Management System created using Python. T
   - **Delete books**: Remove books from the library.
   - **Search books**: Search for books by title, author, or genre.
   - **Manage user checkouts**: Check out books to users and track return dates.
-  - ** Manage returns**: Allow users to return books and update their status.
+  - **Manage returns**: Allow users to return books and update their status.
 
 
 
